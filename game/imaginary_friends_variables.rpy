@@ -3,10 +3,10 @@ init offset = -8
 ##############################################################################################################
 
 # Imaginary Friends Configurations
-define config.rollback_enabled = True
-define config.developer = True
-define allowDev = True
-default showDevMenu = True
+define config.rollback_enabled = False
+define config.developer = False
+define allowDev = False
+default showDevMenu = False
 default game_time = 7
 ##############################################################################################################
 
